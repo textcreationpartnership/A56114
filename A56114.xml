@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The protestation of the rebels in Ireland and how they were beaten at the Castle of Baltimore, and ten thousand of them slaine. With, a relation of a great battell fought betweene Captaine Nuse, a valiant souldier, and Tead-Rast the great rebel; who after a bloudy skirmish five thousand of the rebels appeared to be slaine, and he with the rest fled. And how Captaine Nuse is going to relieve the Castle of Baltimore. January, 15. 1642. And the commanders names taken out of Master Bradshawes letter.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56114</idno><idno type="EEBO-CITATION">99832853</idno>
+  <idno type="VID">37328</idno>
+  <idno type="EEBO-PROQUEST">2240953167</idno>
+  
+            <idno type="STC">Wing P3870</idno>
+            <idno type="STC">ESTC R221555</idno>
+            <idno type="PROQUEST">99832853</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832853e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37328)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2151:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The protestation of the rebels in Ireland and how they were beaten at the Castle of Baltimore, and ten thousand of them slaine. With, a relation of a great battell fought betweene Captaine Nuse, a valiant souldier, and Tead-Rast the great rebel; who after a bloudy skirmish five thousand of the rebels appeared to be slaine, and he with the rest fled. And how Captaine Nuse is going to relieve the Castle of Baltimore. January, 15. 1642. And the commanders names taken out of Master Bradshawes letter.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for I.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37328:1"/>
+            <pb facs="tcp:37328:1"/>
+            <p>THE PROTESTATION OF THE Rebels in Ireland, and how they were beaten at the Castle of Baltimore, and ten thousand of them slaine.</p>
+            <p>WITH, A Relation of a great Battell fought betweene Captaine <hi>Nuse,</hi> a valiant Soul<g ref="char:EOLhyphen"/>dier, and <hi>Tead-Rast</hi> the great Rebel; who after a bloudy Skirmish five thousand of the Rebels appeared to be slaine, and he with the rest fled.</p>
+            <p>And how Captaine <hi>Nuse</hi> is going to relieve the Castle of Baltimore.</p>
+            <p>January, 15. 1642.</p>
+            <p>And the Commanders Names Taken out of Master <hi>Bradshawes</hi> Letter.</p>
+            <p>London, Printed for <hi>I. H.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37328:2"/>
+            <pb facs="tcp:37328:2"/>
+            <head>Relation of a Great Battell fought between Captain <hi>Nuse,</hi> a valiant Soul<g ref="char:EOLhyphen"/>dier, and <hi>Teak-Rash</hi> the great Rebel, who after a bloudy skirmish. 5000. of the Rebels appeared to be slaine, and he with the rest fled.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is one <hi>Teak Rash</hi> a great Rebel in <hi>Ireland,</hi> who commands a great Army of a running Campe, who doth great hurt▪ He hath fired ma<g ref="char:EOLhyphen"/>ny Towne, putting all (for the most part) to the Sword, both Men Wo<g ref="char:EOLhyphen"/>men and Children, without any pitty. But Cap<g ref="char:EOLhyphen"/>taine <hi>Nuse</hi> in the County of Corke, a brave and valiant Souldier, an Englishman with his Com<g ref="char:EOLhyphen"/>pany fought a great Battell with the Rebels and his Company, which was the greatest Battell that was fought in <hi>Ireland</hi> since the rising of the Re<g ref="char:EOLhyphen"/>bels. They fought for the sp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of a whole Day: and Captaine <hi>Nuse</hi> slew that Day about five thou<g ref="char:EOLhyphen"/>sand of the Rebels, and the rest sled over the
+<pb facs="tcp:37328:3"/> Boggs into the Wood for shelter. These Rebels have taken up a resolution to destroy all the Eng<g ref="char:EOLhyphen"/>lish Inhabitants in those parts both Protestants and Papists; vowing that they will have no Eng<g ref="char:EOLhyphen"/>lish to dwell among them.</p>
+            <div type="part">
+               <head>How the French Army in <hi>Ireland</hi> were beaten at the Castle of Baltemore, and one thou<g ref="char:EOLhyphen"/>sand of them slaine.</head>
+               <p>THe French Army in Ireland were devided into foure Regiments, and placed:
+<list>
+                     <item>1 At Count Machery.</item>
+                     <item>2 At Tamaliggo.</item>
+                     <item>3 At Galehead.</item>
+                     <item>4 At Roscarbery.</item>
+                  </list>
+               </p>
+               <p>The Regiment at Roscarbery fired the Towne with Wildefire, and murdered the English Inha<g ref="char:EOLhyphen"/>bitants therein.</p>
+               <p>Neere Galehead, there being a little Towne, un<g ref="char:EOLhyphen"/>der an Hill; consisting onely of about twelve Fa<g ref="char:EOLhyphen"/>milies of English Inhabitants. That Regiment fired their Houses, and slew every Person, both Men, Women and Children, and in the Creeke which came up to the said Towne, there Harbou<g ref="char:EOLhyphen"/>red six Fisherboats, which boates they also fired, and the Fishermen, were all of them either burnt
+<pb facs="tcp:37328:3"/> or drowned▪ for they suffered none of them to escape. The number of those that were slaine in the Towne, and burnt, and drowned of the Fisher<g ref="char:EOLhyphen"/>men, were about fourescore Persons.</p>
+               <p>These foure Regiments met altogether at Sir <hi>Walter Coppingers</hi> at Aby Strovery Castle. This Sir <hi>Walter</hi> is an Irish Knight, and a great Rebel; who hath under him, <hi>viz.</hi>
+                  <list>
+                     <item>1 He hath under hand ten Castles at his com<g ref="char:EOLhyphen"/>mand.</item>
+                     <item>2 Also two Furnesses for making of Iron▪ where he casteth great store of Iron Guns.</item>
+                     <item>3 He hath great store of Smiths curious work<g ref="char:EOLhyphen"/>men for Warre; both Irish, French, and Spanish.</item>
+                     <item>4 He hath received great store of Spanish Iron from Spaine.</item>
+                     <item>5 His Forces under him are about fifteen thou<g ref="char:EOLhyphen"/>sand Foot, and five hundred Horse.</item>
+                     <item>6 He hath three Popish Priests in his Army.</item>
+                     <item>7 Many Jesuits, to animate them on to their Rebellion.</item>
+                     <item>8 He hath fortified many Forts, and Bankes; and placed great store of Iron Guns upon them.</item>
+                  </list>
+               </p>
+               <p>This Rebel having entertained the French For<g ref="char:EOLhyphen"/>ces with great respect; and shewed them the great<g ref="char:EOLhyphen"/>nesse of his strength; he appointed them to march to Baltemore, about five miles further, which they did; being conducted thither by officers from him, which Towne they presently forced; and set
+<pb facs="tcp:37328:4"/> upon the Castle, but could not take it, for it was very strong, and well fortified.
+<list>
+                     <item>1 With ten Brasse pieces of Ordnance▪</item>
+                     <item>2 A great murderer, placed against the Gate. Besides other good Ammunition for Warre.</item>
+                  </list>
+               </p>
+               <p>The Souldiers in the Castle perceiving the Towne to be fired; and seeing th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m march towards the Castle, suffred them to march up to the Castle▪ and permitted them to breake open the gate; then the <hi>French</hi> Army thought they had taken the Ca<g ref="char:EOLhyphen"/>stle sure enough. But as they entred the Souldiers discharged the Murderer and their Ordinance and slew many of them; which made them retreate but they charged and discharged so fast upon them, that in a short space there was about 1000. of them slaine. So the rest retreated back againe to the Towne; and there encamped the Sluce, intending to starve the Souldiers in the Castle, and have got Iron gunns which they have planted at the har<g ref="char:EOLhyphen"/>bours mouth, least any shipping should enter in to relieve them, and a <hi>Protestation</hi> was there made amongst them to this effect, which such as are ap<g ref="char:EOLhyphen"/>pointed there to be, all tooke.</p>
+            </div>
+            <div type="part">
+               <head>The Protestation.</head>
+               <p>I T. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.: Doe promise and vowe, before Almightie God that I will never depart hence, without
+<pb facs="tcp:37328:4"/> the bloud of these Hereticks in this Castle of <hi>Bal<g ref="char:EOLhyphen"/>timore;</hi> this vow to the utmost of my life I will maintaine, So helpe me <hi>God.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Captaine <hi>Nuce</hi> is going to relieve tho Castle of Baltimore.</head>
+               <p>THere is a great force gone up with Cap<g ref="char:EOLhyphen"/>taine <hi>Nuse</hi> out of the County of Corke, to meet the Rebels there, that tooke the Oath: and to rescue the Castle of Baltimore. And what the issue will be, God onely knowes. The Lord looke upon the misery of that King<g ref="char:EOLhyphen"/>dome and in his good time relieve them.</p>
+               <list>
+                  <head>The Names of those Rebels.</head>
+                  <item>
+                     <hi>Teak-Rocke.</hi>
+                  </item>
+                  <item>Sir <hi>Walter Coppinger.</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel Mak-Darmod.</hi>
+                  </item>
+                  <item>
+                     <hi>Fenell Mak-Donell.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
